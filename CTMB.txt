@@ -48,7 +48,7 @@ the heart on the left-hand-side of the homonculus, rather than the right.
 Raw hit point pool---
     You get 17.
 
-Damage reduction ratiing (DR)---
+Damage reduction rating (DR)---
     You get 0.
 
 Skills---
@@ -56,8 +56,8 @@ Skills---
 no attributes, so if you want to be strong, buy the 'strength' skill. If you want to be really
 ridiculously strong, buy 10 points of the strength skill. Alternately, if you want to be the
 deadlift bro, buy a few points in deadlift. If you want magic, buy some skill in magic; if you'd
-like to be able to throw a fireball, buy the fireball skill (after you get the magic skill, or
-before if you don't care about personal safety). Martial arts needs a skill. Shooting a gun
+like to be able to throw a fireball, buy the fireball skill (after you get the magic skill; or,
+before, if you don't care about personal safety). Martial arts needs a skill. Shooting a gun
 needs a skill. Driving a car like a `60s spy needs a skill level or two.
 
 The following skills are called out:
@@ -82,19 +82,20 @@ Before applying damage to body points, subtract your DR from the damage.
 Combat (and skill use, in general)---
     Narrate your action. Given a description of what you're doing, the GM will determine which of your
 skills apply to the given situation. In general, the player with the most (and most total number)
-of skills (and skill levels) applied to the situation wins. If there's doubt, roll a 1D20, and
+of skills (and skill levels) applied to the situation wins. If there's doubt, roll a 1D20;
 the higher value wins. There are no ties, try again.
 
 Use the following table as a guide for damage---
     Untrained strikes - 0 body point damage, 1 point raw hit point.
     Trained strikes - 1 point per level.
     Knife - 1 point.
+    Hand-weapons - 1D4 points.
     Hand-gun - 1D6 points.
     Rifle - 2D6 points.
     Grenade - 3D6 points to all parts exposed.
 
 Character progression---
-    Yeah. No.
+    Yeah. No. Points, I guess.
 
 Example Character Sheet---
 
@@ -117,7 +118,7 @@ Example Character Sheet---
                     |       [2  ]     [  2]             |
                     |                                   |
                     |                                   |
-                    |                                   |
+                    |        Suck it, Matt              |
                     |                                   |
                     +-----------------------------------+
 
