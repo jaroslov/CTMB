@@ -1,0 +1,136 @@
+Cybernetic Teenage Murder Bums
+------------------------------
+
+Authors:
+    Jacob N. Smith; his brother.
+Playtesters:
+    Matt, Adam, Noah, Nathan, Josh, a crapload of forgotten folk.
+
+
+A stone-washed jeans era role-playing game: we didn't have GTA, so we did this, instead.
+
+Some people may know this game by the totally useless name 'MILITARY' since, originally,
+we'd had HUGE plans on making a hyper-accurate tactical combat simulation game.
+
+HOO, BOY, THE SETTING---
+    Your party wakes up in a ditch, you remember nothing, and you're fuckin' ANGRY & BROKE.
+
+In most cases, the game begins once the party has acquired the following, in any order:
+    1. Cheesy-bean burritos from a fast food joint;
+    2. A car, or other vehicle (tractor, motorcycle, helicopter); and,
+    3. Sufficient weapons & ammo to knock over a small military depot.
+Side effects of acquiring the above should be considered at length by the GM, and not
+at all by the players.
+
+The time setting the game should be played in is the `90s, but with some
+Knight Rider/Airwolf/6-million dollar man tech thrown in. Y'know, all the reruns.
+
+The game ends (you win) when the whole party goes out in a blaze of glory. For instance, you
+win gold in the group figure skating in the Olympics, after 'convincing' the IOC to add group
+figure skating to the Olympics. If someone in the party member has the audacity to die a bit
+too soon, you're going to need to figure that out.
+
+Making a character---
+    You're only going to need a single piece of paper. There's a few major mechanical parts:
+    1. A homunculus with body points;
+    2. Raw hit point pool;
+    3. Your damage reduction rating; and,
+    4. A set of skills.
+
+The homonculus---
+    Draw a homunculus (a generic person), and label the following parts with body points:
+head - 2, neck - 1, upper arm - 3, lower arm - 2, hand 1, upper leg - 4,
+lower leg - 3, foot - 2; the body is split into upper-left and upper-right torso, each with 5
+points, and a lower torso/belly with 5 points. Also, make a chunk of the upper-left torso with
+0 points. That's your heart, in case you get stabbed/shot there. Make fun of anyone who puts
+the heart on the left-hand-side of the homonculus, rather than the right.
+
+Raw hit point pool---
+    You get 17.
+
+Damage reduction ratiing (DR)---
+    You get 0.
+
+Skills---
+    Generally, you get 30 'points' to spend on skills. A skill can be anything. Notice that there's
+no attributes, so if you want to be strong, buy the 'strength' skill. If you want to be really
+ridiculously strong, buy 10 points of the strength skill. Alternately, if you want to be the
+deadlift bro, buy a few points in deadlift. If you want magic, buy some skill in magic; if you'd
+like to be able to throw a fireball, buy the fireball skill (after you get the magic skill, or
+before if you don't care about personal safety). Martial arts needs a skill. Shooting a gun
+needs a skill. Driving a car like a `60s spy needs a skill level or two.
+
+The following skills are called out:
+    1 point buys a body point on one part of the body.
+    1 point buys a hit point.
+    17 points buys a level of DR.
+
+Probably, it's a good idea if someone in your group has cybernetic prosthesis/surgeon skill. Or,
+even better, the skill to contact one.
+
+Giving & taking damage---
+    All strikes (for lethality) target one (or more) body parts. Each point of damage is subtracted
+from both the body part and the raw hit point pool. A character dies when their raw hit point
+pool is less than -10. A body part becomes inactive/useless when reduced to 0 points. It has to
+come off (surgically) if it ever goes below 0 points. It's removed for you if it's value drops
+to the negative of its value. That is, if you're stabbed in the hand for 1 point, you can't use
+your hand. If you're stabbed again, your hand it mutilated to be point it needs to be removed.
+The third stab removes the hand for you.
+
+Before applying damage to body points, subtract your DR from the damage.
+
+Combat (and skill use, in general)---
+    Narrate your action. Given a description of what you're doing, the GM will determine which of your
+skills apply to the given situation. In general, the player with the most (and most total number)
+of skills (and skill levels) applied to the situation wins. If there's doubt, roll a 1D20, and
+the higher value wins. There are no ties, try again.
+
+Use the following table as a guide for damage---
+    Untrained strikes - 0 body point damage, 1 point raw hit point.
+    Trained strikes - 1 point per level.
+    Knife - 1 point.
+    Hand-gun - 1D6 points.
+    Rifle - 2D6 points.
+    Grenade - 3D6 points to all parts exposed.
+
+Character progression---
+    Yeah. No.
+
+Example Character Sheet---
+
+                    +-----------------------------------+
+                    |                                   |
+                    |             ___                   |
+                    |   HP: 17   /   \         SKILLS   |
+                    |   DR: 0    \ 2 /         ------   |
+                    |             +-+                   |
+                    |          ___|1|___                |
+                    |         /\   |5--/\               |
+                    |        /3/\ 5|/0/\3\              |
+                    |       --   --+--  --     WEAPONS  |
+                    |      /2/   \ 5 /  \2\    -------  |
+                    |     (1)     \_/    (1)            |
+                    |           /4/ \4\                 |
+                    |          / /   \ \                |
+                    |          --     --                |
+                    |         /3/     \3\               |
+                    |       [2  ]     [  2]             |
+                    |                                   |
+                    |                                   |
+                    |                                   |
+                    |                                   |
+                    +-----------------------------------+
+
+P.S.---
+    There used to be a bunch of attributes, but we never used them, and I've forgotten, precisely,
+what they were. So, to simplify the whole part where you keep asking me what the attributes are,
+I've just left them off. If you're really keen on attributes, then go ahead and use:
+
+    Strength
+    Dexterity
+    Speed
+    Intelligence
+
+You get 10 points in each. You can spend a skill point to raise an attribute by one point. The
+only game-effecting attribute is 'speed' which lets your character eat a cheesy bean burrito
+a bit faster than your buddies. That's not part of the original game, by the way.
